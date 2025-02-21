@@ -1,1 +1,1 @@
-Linear and Multiple Regression along with dataset split for training and testing for continuous values in the dataset.
+Usage of different machine learning concept and integration its concepts with codebase.
