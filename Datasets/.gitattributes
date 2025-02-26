@@ -1,2 +1,7 @@
 House_Price.csv filter=lfs diff=lfs merge=lfs -text
 Movie_collection_train.csv filter=lfs diff=lfs merge=lfs -text
+Customer.csv filter=lfs diff=lfs merge=lfs -text
+daily-min-temperatures.csv filter=lfs diff=lfs merge=lfs -text
+daily-total-female-births-CA.csv filter=lfs diff=lfs merge=lfs -text
+shampoo.csv filter=lfs diff=lfs merge=lfs -text
+us-airlines-monthly-aircraft-miles-flown.csv filter=lfs diff=lfs merge=lfs -text
