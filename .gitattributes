@@ -2,3 +2,4 @@ Datasets/Movie_collection_test.csv filter=lfs diff=lfs merge=lfs -text
 Datasets/Movie_collection_train.csv filter=lfs diff=lfs merge=lfs -text
 Datasets/Movie_regression.csv filter=lfs diff=lfs merge=lfs -text
 Datasets/Movie_classification.csv filter=lfs diff=lfs merge=lfs -text
+Datasets/House-Price.csv filter=lfs diff=lfs merge=lfs -text
